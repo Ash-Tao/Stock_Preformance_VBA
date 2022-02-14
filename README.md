@@ -31,7 +31,7 @@ use loop to find the ticker
 
 ## **Template screenshot**
 The result should match the following image:
-
+![alt text](https://github.com/Ash-Tao/VBA-challenge/blob/main/2%20VBA%20Challenge_MultipleYearStock_data-Screen%20Shot-Year%202018.png)
 
 ## **Files**
 - VBA scripts on with datasets.
