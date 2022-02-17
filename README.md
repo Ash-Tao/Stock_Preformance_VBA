@@ -12,7 +12,7 @@ Use `AdvancedFilter` to remove duplicated value. <br />
 Use nested loop to find the difference between closing and beginning price for each stock<br />
 A variable range is applied. `Range.End (xlDown)`<br />
 
-- Fhe percent change from opening price at the beginning of a given year to the closing price at the end of that year.<br />
+- The percent change from opening price at the beginning of a given year to the closing price at the end of that year.<br />
 Dim two variables for the found closing and beginning price.<br />
 Do the calculation.<br />
 
