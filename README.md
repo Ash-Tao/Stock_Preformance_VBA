@@ -53,7 +53,7 @@ More screenshots you can find here:
 - `.bas` file. <br />
   You can download the `.bas` file, and import it to your VBA-Macro.[.bas files](https://github.com/Ash-Tao/VBA-challenge/tree/main/bas%20files)<br />
   Navigate to: Tools > Macro -> Visual Basic Editor. Right click somewhere in the module and import the ".bas" file.*<br />
-- Small sample dataset.<br />
+- Small sample dataset - `alphabetical_testing.xlsx`.<br />
   If the full sample dataset is too large to loading. A sample of this small data can be downloaded for testing purposes.
   [alphabetical_testing.xlsx](https://github.com/Ash-Tao/VBA-challenge/upload)
 
