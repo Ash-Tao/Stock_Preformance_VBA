@@ -42,8 +42,7 @@ More screenshots you can find here:
 
 ## **How to Run**
 - Final report on full sample datasets.<br />
-  Download `VBA Challenge_MultipleYearStock_data.xlsm` to your local drive.<br />
-  [VBA Challenge_MultipleYearStock_data.xlsm](https://github.com/Ash-Tao/VBA-challenge/blob/main/2%20VBA%20Challenge_MultipleYearStock_data.xlsm)
+  Download `VBA Challenge_MultipleYearStock_data.xlsm` to your local drive.[VBA Challenge_MultipleYearStock_data.xlsm](https://github.com/Ash-Tao/VBA-challenge/blob/main/2%20VBA%20Challenge_MultipleYearStock_data.xlsm)
 - Macros Button.
   In each sheet, there are `VBA-Challenge` & `Bonus` two buttons. 
   They have been linked to the modules, which acts the same on every sheet.<br />
