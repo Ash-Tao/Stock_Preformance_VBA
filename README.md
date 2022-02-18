@@ -13,9 +13,7 @@ Use nested loop to find the difference between closing and beginning price for e
 A variable range is applied. `Range.End (xlDown)`<br />
 
 - The percent change from opening price at the beginning of a given year to the closing price at the end of that year.<br />
-
-  _In the real world, it might be possible to come across listing or delisting in the middle of a year. Or the data is not presented in chronological order   after the company name as a group. Need to find a way to get accurate data in a disordered range. _<br />
-  
+  In the real world, it might be possible to come across listing or delisting in the middle of a year. Or the data is not presented in chronological order   after the company name as a group. Need to find a way to get accurate data in a disordered range.<br />
   Dim four variables for the found closing and beginning price. <br />
   Do the calculation. <br />
   - MinDate
@@ -43,18 +41,20 @@ More screenshots you can find here:
 [VBA Challenge Screen Shot](https://github.com/Ash-Tao/VBA-challenge/tree/main/VBA%20Challenge%20Screen%20Shot)
 
 ## **How to Run**
-- Full sample final report.<br />
+- Final report on full sample datasets.<br />
   Download `VBA Challenge_MultipleYearStock_data.xlsm` to your local drive.<br />
   [VBA Challenge_MultipleYearStock_data.xlsm](https://github.com/Ash-Tao/VBA-challenge/blob/main/2%20VBA%20Challenge_MultipleYearStock_data.xlsm)
-- In each sheet, there are `VBA-Challenge` & `Bonus` two buttons. They have been linked to two different modules, which acts the same on every sheet.<br />
+- Macros Button.
+  In each sheet, there are `VBA-Challenge` & `Bonus` two buttons. 
+  They have been linked to the modules, which acts the same on every sheet.<br />
   ![image](https://github.com/Ash-Tao/VBA-challenge/blob/main/Macros%20Button.png)
   ```diff
-  NOTES: Please delete existing calculation result(from column I to column P) before press the button.
-  Otherwise, an error message of "Run-time error '1004' and stop the code to be run.
-- .bas file is available. <br />
-  You can download the .bas file, and import it to your VBA-Macro.<br />
+  NOTES: Please delete existing calculation result(from column I to column P) before press the Macros Button.
+  Otherwise, an error message of "Run-time error '1004' will occur and stop the code to be run.
+- .bas file. <br />
+  You can download the `.bas` file, and import it to your VBA-Macro.[.bas files](https://github.com/Ash-Tao/VBA-challenge/tree/main/bas%20files)<br />
   Navigate to: Tools > Macro -> Visual Basic Editor. Right click somewhere in the module and import the ".bas" file.*<br />
-  [.bas files](https://github.com/Ash-Tao/VBA-challenge/tree/main/bas%20files)
-- Small sample data for testing is available.
-- [alphabetical_testing.xlsx](https://github.com/Ash-Tao/VBA-challenge/upload
+- Small sample dataset.
+  If the full sample dataset is too large to loading. A sample of this small data can be downloaded for testing purposes.
+  [alphabetical_testing.xlsx](https://github.com/Ash-Tao/VBA-challenge/upload
 
