@@ -51,7 +51,7 @@ More screenshots you can find here:
   ```diff
   NOTES: Please delete existing calculation result(from column I to column P) before press the Macros Button.
   Otherwise, an error message of "Run-time error '1004' will occur and stop the code to be run.
-- .bas file. <br />
+- `.bas` file. <br />
   You can download the `.bas` file, and import it to your VBA-Macro.[.bas files](https://github.com/Ash-Tao/VBA-challenge/tree/main/bas%20files)<br />
   Navigate to: Tools > Macro -> Visual Basic Editor. Right click somewhere in the module and import the ".bas" file.*<br />
 - Small sample dataset.
