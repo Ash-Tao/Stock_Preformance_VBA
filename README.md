@@ -56,5 +56,5 @@ More screenshots you can find here:
   Navigate to: Tools > Macro -> Visual Basic Editor. Right click somewhere in the module and import the ".bas" file.*<br />
 - Small sample dataset.
   If the full sample dataset is too large to loading. A sample of this small data can be downloaded for testing purposes.
-  [alphabetical_testing.xlsx](https://github.com/Ash-Tao/VBA-challenge/upload
+  [alphabetical_testing.xlsx](https://github.com/Ash-Tao/VBA-challenge/upload)
 
