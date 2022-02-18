@@ -43,7 +43,7 @@ More screenshots you can find here:
 ## **How to Run**
 - Final report on full sample datasets.<br />
   Download `VBA Challenge_MultipleYearStock_data.xlsm` to your local drive.[VBA Challenge_MultipleYearStock_data.xlsm](https://github.com/Ash-Tao/VBA-challenge/blob/main/2%20VBA%20Challenge_MultipleYearStock_data.xlsm)
-- Macros Button.
+- Macros Button.<br />
   In each sheet, there are `VBA-Challenge` & `Bonus` two buttons. 
   They have been linked to the modules, which acts the same on every sheet.<br />
   ![image](https://github.com/Ash-Tao/VBA-challenge/blob/main/Macros%20Button.png)
@@ -53,7 +53,7 @@ More screenshots you can find here:
 - `.bas` file. <br />
   You can download the `.bas` file, and import it to your VBA-Macro.[.bas files](https://github.com/Ash-Tao/VBA-challenge/tree/main/bas%20files)<br />
   Navigate to: Tools > Macro -> Visual Basic Editor. Right click somewhere in the module and import the ".bas" file.*<br />
-- Small sample dataset.
+- Small sample dataset.<br />
   If the full sample dataset is too large to loading. A sample of this small data can be downloaded for testing purposes.
   [alphabetical_testing.xlsx](https://github.com/Ash-Tao/VBA-challenge/upload)
 
