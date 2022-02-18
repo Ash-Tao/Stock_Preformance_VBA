@@ -18,7 +18,9 @@ Do the calculation.<br />
   - MinDate
   - EariestPrice
   - MaxDate
-  - LatestPrice
+  - LatestPrice<br />
+
+*In the real world, it might be possible to come across listings or delistings in the middle of a year. Or the data is not presented in chronological order after company name as a group. This script of mine can still find the data of each company in the disordered record*<br />
 
 - The total stock volume of the stock.<br />
 Usd `WorksheetFunction.SumIf` to get the total volume for each stock.
