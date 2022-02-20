@@ -58,5 +58,5 @@ The result should match the following image:<br />
   -Otherwise, an error message of "Run-time error '1004' will occur and stop the code to be run.
 - Small sample dataset - `alphabetical_testing.xlsx`.<br />
   If the full sample dataset is too large to loading. A sample of this small data can be downloaded for testing purposes.<br />
-  [alphabetical_testing.xlsx](https://github.com/Ash-Tao/VBA-challenge/upload)
+  [alphabetical_testing.xlsx](https://github.com/Ash-Tao/VBA-challenge/blob/main/alphabetical_testing.xlsm)
 
