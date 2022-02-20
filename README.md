@@ -35,10 +35,13 @@ use `Conditional Formatting`
 
 
 ## **Template screenshot**
-The result should match the following image:
+The result should match the following image:<br />
 ![alt text](https://github.com/Ash-Tao/VBA-challenge/blob/main/VBA%20Challenge%20Screen%20Shot/Screen%20Shot-Year%202018%201:3.png)
-More screenshots you can find here:
-[VBA Challenge Screen Shot](https://github.com/Ash-Tao/VBA-challenge/tree/main/VBA%20Challenge%20Screen%20Shot)
+- More screenshots:
+  [VBA Challenge Screen Shot](https://github.com/Ash-Tao/VBA-challenge/tree/main/VBA%20Challenge%20Screen%20Shot)
+- The full results across 3 years:
+
+
 
 ## **How to Run**
 - `.bas` file. <br />
@@ -46,7 +49,7 @@ More screenshots you can find here:
   [.bas files](https://github.com/Ash-Tao/VBA-challenge/tree/main/bas%20files)<br />
 - Final report on full sample datasets.<br />
   Download `VBA Challenge_MultipleYearStock_data.xlsm` to your local drive.<br />
-  [VBA Challenge_MultipleYearStock_data.xlsm](https://github.com/Ash-Tao/VBA-challenge/blob/main/2%20VBA%20Challenge_MultipleYearStock_data.xlsm)
+  [VBA Challenge_MultipleYearStock_data.xlsm](https://github.com/Ash-Tao/VBA-challenge/blob/main/VBA%20Challenge_MultipleYearStock_data.xlsm)
 - Macros Button.<br />
   In each sheet, there are `VBA-Challenge` & `Bonus` two buttons. 
   They have been linked to the modules, which acts the same on every sheet.<br />
