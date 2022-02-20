@@ -37,9 +37,8 @@ use `Conditional Formatting`
 ## **Template screenshot**
 The result should match the following image:<br />
 ![alt text](https://github.com/Ash-Tao/VBA-challenge/blob/main/VBA%20Challenge%20Screen%20Shot/Screen%20Shot-Year%202018%201:3.png)
-- More screenshots:
-  [VBA Challenge Screen Shot](https://github.com/Ash-Tao/VBA-challenge/tree/main/VBA%20Challenge%20Screen%20Shot)
-- The full results across 3 years:
+- [More screenshots](https://github.com/Ash-Tao/VBA-challenge/tree/main/VBA%20Challenge%20Screen%20Shot)
+- [The full results across 3 years](https://github.com/Ash-Tao/VBA-challenge/tree/main/Full%20Results)
 
 
 
