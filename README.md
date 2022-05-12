@@ -1,4 +1,4 @@
-# **VBA-Challenge: The VBA for Stock Market Analyst**
+# **Stock_Preformance_VBA**
 
 ## Purpose
 Use `VBA` scripting to analyse generated stock market data.
